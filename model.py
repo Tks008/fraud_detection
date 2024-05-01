@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("Print from model3")
+
+print("Model 2 is the final one.")   
